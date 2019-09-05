@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": "co2",
-  "name": "co2",
+  "alias": "carbondioxide",
+  "name": "carbondioxide",
   "builds": [{ "src": "next.config.js", "use": "@now/next" }]
 }
